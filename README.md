@@ -9,9 +9,7 @@ Repositorio Trabajo Final CoderHouse
 
 ├── docs               <- All files with relevant information are here
 
-│
 ├── models             <- Trained and serialized models, model predictions, or model summaries
 
-│
 ├── notebooks          <- Jupyter notebooks. 
 
